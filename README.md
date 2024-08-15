@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning software languages, to code, and to develop my skills overall in every field.
 - 🌱 I’m currently learning ...python, HTML & js.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@pranavsingh00710@gmail.com
+- 📫 How to reach me ...pranavsingh00710@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...Quick learner, likes to listen a lot music and watch sports
 
