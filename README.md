@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @prnvs7
-- 👀 I’m interested in learning software languages, to code, and to develop my skills overall in every field.
-- 🌱 I’m currently learning ...python, HTML & js.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pranavsingh00710@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Quick learner, likes to listen a lot music and watch sports
+Hi 👋, I'm Pranav Singh
+Aspiring Full Stack Developer | Tech Enthusiast 🚀
 
-<!---
-prnvs7/prnvs7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 About Me
+- 🎓 2nd Year Student passionate about building real-world projects  
+- 💻 Currently learning **Full Stack Development**  
+- 🌱 Exploring **Python, JavaScript, HTML, CSS & Backend Technologies**  
+- 🔍 Interested in **Web Development, Software Engineering & Tech Innovations**  
+- 🤝 Open to collaboration on projects and learning opportunities  
+      
+---
+
+### 🚀 What I'm Working On
+- 🛠️ Building personal and academic projects  
+- 🌐 Improving my frontend & backend skills  
+- ⚡ Learning how to create scalable and clean applications  
+
+---
+
+### 🧠 Tech Stack (Learning & Using)
+- **Languages:** Python, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** (Learning phase 🚧) Node.js / APIs  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+### 📈 Goals
+- Become a **skilled Full Stack Developer**  
+- Contribute to **open source projects**  
+- Build impactful and user-friendly applications  
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: pranavsingh00710@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+- 🎧 Love listening to music  
+- 🏏 Enjoy watching sports  
+- 🚀 Quick learner & always curious about tech  
