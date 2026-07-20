@@ -37,9 +37,4 @@ Aspiring Full Stack Developer | Tech Enthusiast 🚀
 ### 📫 Connect With Me
 - 📧 Email: pranavsingh00710@gmail.com  
 
----
 
-### ⚡ Fun Fact
-- 🎧 Love listening to music  
-- 🏏 Enjoy watching sports  
-- 🚀 Quick learner & always curious about tech  
