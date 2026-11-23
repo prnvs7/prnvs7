@@ -4,7 +4,7 @@ Aspiring Full Stack Developer | Tech Enthusiast 🚀
 ---
 
 ### 👨‍💻 About Me
-- 🎓 2nd Year Student passionate about building real-world projects  
+- 🎓 3rd Year Student passionate about building real-world projects  
 - 💻 Currently learning **Full Stack Development**  
 - 🌱 Exploring **Python, JavaScript, HTML, CSS & Backend Technologies**  
 - 🔍 Interested in **Web Development, Software Engineering & Tech Innovations**  
