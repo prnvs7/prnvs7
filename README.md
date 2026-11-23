@@ -1,40 +1,60 @@
-Hi 👋, I'm Pranav Singh
-Aspiring Full Stack Developer | Tech Enthusiast 🚀
+# Hey, I'm Pranav 👋
+
+### Computer Science Student | Full Stack Developer | Aspiring Software Engineer
+
+I'm a Computer Science student interested in building software that solves real problems. I enjoy working across the stack, understanding how systems work behind the scenes, and turning ideas into functional applications.
+
+Currently focused on strengthening my foundations in **Data Structures & Algorithms, Backend Development, System Design, and Full Stack Engineering**.
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 3rd Year Student passionate about building real-world projects  
-- 💻 Currently learning **Full Stack Development**  
-- 🌱 Exploring **Python, JavaScript, HTML, CSS & Backend Technologies**  
-- 🔍 Interested in **Web Development, Software Engineering & Tech Innovations**  
-- 🤝 Open to collaboration on projects and learning opportunities  
-      
----
+### 🧠 What I'm Exploring
 
-### 🚀 What I'm Working On
-- 🛠️ Building personal and academic projects  
-- 🌐 Improving my frontend & backend skills  
-- ⚡ Learning how to create scalable and clean applications  
+- Building full-stack applications with practical, real-world use cases
+- Backend development, REST APIs, authentication and database design
+- Java, problem-solving and Data Structures & Algorithms
+- Exploring scalable architecture and modern development tools
 
 ---
 
-### 🧠 Tech Stack (Learning & Using)
-- **Languages:** Python, JavaScript  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** (Learning phase 🚧) Node.js / APIs  
-- **Tools:** Git, GitHub, VS Code  
+### ⚒️ Tech Stack
+
+**Languages**
+`Java` `JavaScript` `Python` `C++`
+
+**Frontend**
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Express.js` `FastAPI` `REST APIs`
+
+**Database & Tools**
+`MongoDB` `PostgreSQL` `Git` `GitHub` `VS Code`
 
 ---
 
-### 📈 Goals
-- Become a **skilled Full Stack Developer**  
-- Contribute to **open source projects**  
-- Build impactful and user-friendly applications  
+### 🚀 Projects
+
+> I believe the best way to learn software engineering is by building, breaking, and improving things.
+
+Here are some of the projects I'm working on:
+
+- **ProSched** – A scheduling and productivity application.
+- **Secure Password Manager** – A desktop application focused on local encryption and secure credential management.
+- More projects coming as I explore, build and learn.
 
 ---
 
-### 📫 Connect With Me
-- 📧 Email: pranavsingh00710@gmail.com  
+### 📈 Currently Working On
 
+- Improving my problem-solving skills through DSA
+- Building projects with better architecture and maintainability
+- Learning how to design reliable backend systems
+- Becoming a better engineer, not just a better coder
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, exploring new technologies, and connecting with people who enjoy building things.
 
